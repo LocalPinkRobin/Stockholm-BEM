@@ -21,6 +21,7 @@ img , svg{
     display: block;
     width: 100%;
     height: initial;
+    width: initial;
 }
 h1 , h2 , h3 , h4 , h5 , h6 , p , strong , em , mark , a{
     font-size: inherit;
